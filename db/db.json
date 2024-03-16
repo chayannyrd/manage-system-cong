@@ -1,0 +1,173 @@
+{
+  "grupos": [
+    {
+      "id": "1",
+      "nome": "Grupo 1"
+    },
+    {
+      "id": "12",
+      "nome": "Grupo 2"
+    },
+    {
+      "id": "123",
+      "nome": "Grupo 3"
+    },
+    {
+      "id": "1234",
+      "nome": "Grupo 4"
+    },
+    {
+      "id": "00",
+      "nome": "todos"
+    }
+  ],
+  "arranjo": [
+    {
+      "id": "ec80",
+      "data": "22/01/2025",
+      "tema": "tema",
+      "orador": "Adailton",
+      "presencial": true,
+      "transmissao": false,
+      "arranjoConfirmado": "sim"
+    }
+  ],
+  "designacao": [
+    {
+      "id": "e185",
+      "dia": "12",
+      "mes": "maio",
+      "presidente": "Ezequiel",
+      "leitor": "Gilson",
+      "indicadores": "Sergio e Manuel",
+      "microfones1": "Romulo",
+      "microfones2": "Kevin",
+      "grupoLimpeza": "Grupo 1"
+    },
+    {
+      "id": "0366",
+      "dia": "1",
+      "mes": "maio",
+      "presidente": "Simplicio",
+      "leitor": "Manoel",
+      "indicadores": "Joao e Sergio",
+      "microfones1": "Gustavo",
+      "microfones2": "Arthur",
+      "grupoLimpeza": "Grupo 1"
+    }
+  ],
+  "discursos": [
+    {
+      "id": "ac51",
+      "numero": "5",
+      "tema": "Como demonstrar amor num mundo egoista"
+    },
+    {
+      "id": "162e",
+      "numero": "123",
+      "tema": "123"
+    },
+    {
+      "id": "715a",
+      "numero": "123",
+      "tema": "123"
+    }
+  ],
+  "oradores": [
+    {
+      "id": "123",
+      "nome": "Maria",
+      "telefone": "99 9999-9999",
+      "email": "example@example.com",
+      "congregacao": "congrecacao example"
+    }
+  ],
+  "partVM": [
+    {
+      "id": "",
+      "nome": "Taise",
+      "ajudante": "Amanda",
+      "dia": "6",
+      "semana": "abril",
+      "numeroParte": "4",
+      "salaPrincipal": true,
+      "salaB": false
+    }
+  ],
+  "publi": [
+    {
+      "id": "12",
+      "nome": "ch",
+      "dataNascimento": "33333333",
+      "sexo": "Feminino",
+      "telefone": "33333333333",
+      "grupoCampo": "Grupo 1",
+      "funcaoNoGrupo": "Membro",
+      "batizado": false,
+      "pioneiroRegular": false,
+      "funcao": "Ancião",
+      "foto": "blob:http://localhost:3001/56adef0c-219b-4d89-9693-27f8be893632"
+    }
+  ],
+  "saidas": [
+    {
+      "id": "1a0b",
+      "horario": "9:00h",
+      "diaSemana": "Terça-feira",
+      "local": "Salao do Reino",
+      "dirigente": "Ezequiel",
+      "grupo": "Grupo 1"
+    }
+  ],
+  "TPL": [
+    {
+      "id": "7e46",
+      "horario": "6:00-8:00",
+      "diaSemana": "Terça-feira",
+      "titulo": "",
+      "autor": "",
+      "carrinho": false,
+      "display": true,
+      "publicadores": [
+        "Juciene",
+        "Chayanny"
+      ]
+    },
+    {
+      "id": "2c11",
+      "horario": "18:00-21:00",
+      "diaSemana": "Sexta-feira",
+      "titulo": "",
+      "autor": "",
+      "carrinho": true,
+      "display": false,
+      "publicadores": [
+        "Chayanny",
+        "Taise"
+      ]
+    }
+  ],
+  "usuarios": [
+    {
+      "id": "123",
+      "nome": "Chayanny",
+      "email": "chayannyrs@gmail.com",
+      "senha": "12345678",
+      "isAdmin": false
+    }
+  ],
+  "cong": [
+    {
+      "id": "123",
+      "nome": "123",
+      "cidade": "123",
+      "uf": "AC"
+    },
+    {
+      "id": "123",
+      "nome": "123",
+      "cidade": "123",
+      "uf": "AC"
+    }
+  ]
+}

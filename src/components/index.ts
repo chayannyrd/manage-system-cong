@@ -1,0 +1,24 @@
+export { NavBar } from "./navBar";
+export { PopupArranjo } from "./popupArranjo";
+export { PopupCong } from "./popupCong";
+export { PopupDesignacao } from "./popupDesignacao";
+export { PopupDiscursos } from "./popupDiscursos";
+export { PopupGrupos } from "./popupGrupos";
+export { PopupOradores } from "./popupOradores";
+export { PopupPartVM } from "./popupPartVM";
+export { PopupPubli } from "./popupPubli";
+export { PopupSaidas } from "./popupSaidas";
+export { PopupTPL } from "./popupTPL";
+export { PopupUsuarios } from "./popupUsuarios";
+
+export { AddArranjo } from "./addArranjo";
+export { AddCong } from "./addCong";
+export { AddDesignacao } from "./addDesigncacao";
+export { AddDiscursos } from "./addDiscursos";
+export { AddGrupos } from "./addGrupos";
+export { AddOradores } from "./addOradores";
+export { AddPartVM } from "./addPartVM";
+export { AddPubli } from "./addPubli";
+export { AddSaidas } from "./addSaidas";
+export { AddTPL } from "./addTPL";
+export { AddUsuarios } from "./addUsuarios";
